@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-<NetworkLink>
-  <name>Floyd County Water Department</name>
-  <flyToView>1</flyToView>
-  <Link>
-    <href>https://raw.githubusercontent.com/stahlenstein/FCWD_MAP/main/Route%2010.kml</href>
-  </Link>
-  <refreshMode>onInterval</refreshMode>
-  <refreshInterval>5</refreshInterval>
-</NetworkLink>
+  <NetworkLink>
+    <name>Floyd County Water Department</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <flyToView>0</flyToView>
+      <refreshVisibility>1</refreshVisibility>
+      <Link id="10">
+        <href>https://raw.githubusercontent.com/stahlenstein/FCWD_MAP/main/myplaces.kml</href>
+      </Link>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>5</refreshInterval>
+  </NetworkLink>
 </kml>
