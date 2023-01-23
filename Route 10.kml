@@ -19,7 +19,7 @@
 		<scale>0.75</scale>
 	  </LabelStyle>
 </Style>
-<Folder><name>Route_10</name>
+<name>Route 10</name>
 <styleUrl>#main</styleUrl>
   <Placemark>
 	<name>0 TOM BING RD</name>
@@ -2892,5 +2892,4 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-85.128469361,34.19713799,0</coordinates></Point>
   </Placemark>
-</Folder>
 </Document></kml>
