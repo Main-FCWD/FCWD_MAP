@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <NetworkLink>
-  <name>Floyd County Water Department.kml</name>
+  <name>Floyd County Water Department</name>
   <flyToView>1</flyToView>
   <Link>
     <href>https://raw.githubusercontent.com/stahlenstein/FCWD_MAP/main/Route%2010.kml</href>
