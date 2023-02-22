@@ -25,10 +25,7 @@
 			<refreshVisibility>1</refreshVisibility>
 			<Link id="10">
 				<href>https://raw.githubusercontent.com/stahlenstein/FCWD_MAP/main/myplaces.kml</href>
-				<refreshMode>onInterval</refreshMode>
-				<refreshInterval>180</refreshInterval>
 			</Link>
-			<refreshMode>onInterval</refreshMode><refreshInterval>5</refreshInterval>
 		</NetworkLink>
 	</Folder>
 </Document>
