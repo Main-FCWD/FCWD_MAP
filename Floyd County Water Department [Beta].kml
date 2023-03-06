@@ -15,7 +15,6 @@
 					<state>closed</state>
 					<href>:/mysavedplaces_closed.png</href>
 				</ItemIcon>
-				<bgColor>00ffffff</bgColor>
 				<maxSnippetLines>2</maxSnippetLines>
 			</ListStyle>
 		</Style>
